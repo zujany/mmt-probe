@@ -47,10 +47,11 @@ They will be detaillede just below.
 
 ### Step 2 — Compile & Install MMT-probe
 
-Download MMT-Probe from bitbucket
+Download MMT-Probe repository
 
 ```
-git clone https://bitbucket.org/montimage/mmt-probe.git
+git clone https://github.com/Montimage/mmt-probe.git
+
 ```
 
 
